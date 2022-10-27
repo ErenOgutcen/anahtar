@@ -1,6 +1,6 @@
-#Anahtar Kullanımı
-##Anahtar Kullanımı
-###Gerekli Elemanlar
+# Anahtar Kullanımı
+## Anahtar Kullanımı
+### Gerekli Elemanlar
 • 1 adet mikrodenetleyici kart</br>
 • 1 adet breadboard</br>
 • 1 adet anahtar</br>
